@@ -1,5 +1,5 @@
 ﻿
 using ASeriesExercise;
 
-var aa = new A06();
-aa.QueensProblem();
+var aa = new A07();
+aa.ParseDouble();
