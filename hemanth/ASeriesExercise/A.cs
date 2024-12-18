@@ -1,5 +1,5 @@
 ﻿
 using ASeriesExercise;
 
-var aa = new A04();
-aa.GetLetterFrequency();
+var aa = new A06();
+aa.QueensProblem();
